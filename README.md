@@ -1,7 +1,6 @@
 # Hi there, I'm Duc Anh! 👋
 
 ### 🚀 Backend Developer | Node.js Specialist
-I am a final-year Software Engineering student passionate about building scalable, efficient, and robust backend systems. I love solving complex problems and optimizing server-side logic.
 
 ---
 
